@@ -107,22 +107,22 @@ Repository that contains the Readme file for week 3 of CPSC354 Programming Langu
 ## References
 
 1. **Functional Programming in Python: When and How to Use It** - Real Python
-   - Link
+   - [Link](https://realpython.com/python-functional-programming/)
 2. **How and why to use Functional Programming in modern JavaScript** - freeCodeCamp
-   - Link
+   - [Link](https://www.freecodecamp.org/news/functional-programming-in-js-with-practical-examples/)
 3. **Functional Programming: Overview** - Nakov
-   - Link
+   - [Link](https://nakov.com/blog/2013/05/20/functional-programming-overview/)
 4. **What is functional programming? Explained in Python, JS, and Java** - Educative
-   - Link
+   - [Link](https://www.educative.io/blog/functional-programming)
 5. **Functional Programming Paradigm** - GeeksforGeeks
-   - Link
+   - [Link](https://www.geeksforgeeks.org/functional-programming-paradigm/)
 6. **The Evolution of Programming Paradigms: From Procedural to Functional** - DEV Community
-   - Link
+   - [Link](https://dev.to/lydiahallie/the-evolution-of-programming-paradigms-from-procedural-to-functional-3l5b)
 7. **Functional programming is finally going mainstream** - GitHub
-   - Link
+   - [Link](https://github.blog/2020-09-15-functional-programming-is-finally-going-mainstream/)
 8. **What Is Functional Programming and Why Use It?** - Coding Dojo
-   - Link
+   - [Link](https://www.codingdojo.com/blog/functional-programming)
 9. **What is Functional Programming? Your Gateway to ...** - Text Platform
-   - Link
+   - [Link](https://textplatform.com/what-is-functional-programming/)
 10. **What Is Functional Programming? Benefits, Uses, & Languages** - Learn to Code With Me
-    - Link
+    - [Link](https://learntocodewith.me/posts/functional-programming/)
