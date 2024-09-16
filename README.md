@@ -106,7 +106,7 @@ Repository that contains the Readme file for week 3 of CPSC354 Programming Langu
 ## References
 
 1. **A theory of gradual effect systems** - F. Bañados Schwerter, R. Garcia, É. Tanter
-   - [Link]((https://dl.acm.org/doi/abs/10.1145/2628136.2628149))
+   - [Link]([(https://dl.acm.org/doi/abs/10.1145/2628136.2628149)])
 2. **Dependently typed programming in Agda** - U. Norell
    - [Link](https://scholar.google.com/citations?user=KEIhJYcAAAAJ)
 3. **Programming and reasoning with algebraic effects and dependent types** - E. Brady
