@@ -39,20 +39,25 @@ Repository that contains the Readme file for week 3 of CPSC354 Programming Langu
 
 ## Do you see an introduction of new functional programming paradigms that will improve the code maintainability and other positive benefits in the future?
 
-### 1. Effect Systems
-- **Benefit**: Safer and more predictable code by managing side effects.
+1. **Effect Systems**
+   - **Description**: Effect systems extend type systems to track the side effects of functions, such as reading or writing to memory, at compile time. This allows developers to understand and manage the side effects of their code more effectively.
+   - **Benefit**: Safer and more predictable code by managing side effects, reducing unexpected behaviors and making the code easier to reason about[^10^]¹¹.
 
-### 2. Dependent Types
-- **Benefit**: Catches more errors at compile time, leading to robust code.
+2. **Dependent Types**
+   - **Description**: Dependent types are types that depend on values. They allow for more expressive type systems where the type of a value can depend on another value. This is useful for encoding more precise invariants in the type system.
+   - **Benefit**: Catches more errors at compile time, leading to robust code by ensuring that certain conditions are met before the code is executed¹⁸¹⁹.
 
-### 3. Algebraic Effects
-- **Benefit**: Modular and composable side effect management.
+3. **Algebraic Effects**
+   - **Description**: Algebraic effects provide a way to define and handle side effects in a modular and composable manner. They separate the definition of effects from their implementation, allowing for more flexible and reusable code.
+   - **Benefit**: Modular and composable side effect management, making it easier to reason about and manage side effects in a functional programming context¹².
 
-### 4. Functional Reactive Programming (FRP)
-- **Benefit**: Simplifies interactive application development.
+4. **Functional Reactive Programming (FRP)**
+   - **Description**: FRP is a programming paradigm that combines functional programming with reactive programming. It allows developers to work with time-varying values and event streams in a declarative manner.
+   - **Benefit**: Simplifies interactive application development by providing a clear and concise way to handle asynchronous data flows and events¹³¹⁴.
 
-### 5. Category Theory
-- **Benefit**: More reusable and composable code through abstract patterns.
+5. **Category Theory**
+   - **Description**: Category theory is a branch of mathematics that deals with abstract structures and relationships between them. In functional programming, it provides a framework for understanding and composing functions and data types in a highly abstract and reusable way.
+   - **Benefit**: More reusable and composable code through abstract patterns, enabling developers to write more general and flexible code⁶⁸.
 
 ## Historically, how have the paradigms come to exist and is there a common pattern to the popularization of these paradigms that we can see repeated with the new and upcoming paradigms mentioned before?
 
