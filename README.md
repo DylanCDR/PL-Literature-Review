@@ -5,7 +5,7 @@ Repository that contains the Readme file for week 3 of CPSC354 Programming Langu
 
 ---
 
-# Starting Question:
+# Starting Question asked to Microsft's Copilot:
 
 ## How can functional programming paradigms improve code maintainability and reduce bugs in large-scale applications, particularly when using languages like JavaScript or Python that support multiple paradigms?
 
