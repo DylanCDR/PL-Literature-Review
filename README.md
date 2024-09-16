@@ -1,5 +1,7 @@
 # PL-Literature-Review
+# Dylan Calderon
 Repository that contains the Readme file for week 3 of CPSC354 Programming Languages
+
 
 ---
 
@@ -97,3 +99,25 @@ Repository that contains the Readme file for week 3 of CPSC354 Programming Langu
 
 ---
 
+## References
+
+1. **Functional Programming in Python: When and How to Use It** - Real Python
+   - Link
+2. **How and why to use Functional Programming in modern JavaScript** - freeCodeCamp
+   - Link
+3. **Functional Programming: Overview** - Nakov
+   - Link
+4. **What is functional programming? Explained in Python, JS, and Java** - Educative
+   - Link
+5. **Functional Programming Paradigm** - GeeksforGeeks
+   - Link
+6. **The Evolution of Programming Paradigms: From Procedural to Functional** - DEV Community
+   - Link
+7. **Functional programming is finally going mainstream** - GitHub
+   - Link
+8. **What Is Functional Programming and Why Use It?** - Coding Dojo
+   - Link
+9. **What is Functional Programming? Your Gateway to ...** - Text Platform
+   - Link
+10. **What Is Functional Programming? Benefits, Uses, & Languages** - Learn to Code With Me
+    - Link
