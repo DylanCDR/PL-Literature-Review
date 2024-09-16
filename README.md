@@ -110,9 +110,9 @@ Repository that contains the Readme file for week 3 of CPSC354 Programming Langu
 2. **Dependently typed programming in Agda** - U. Norell
    - [Link](https://dl.acm.org/doi/abs/10.1145/1481861.1481862)
 3. **Programming and reasoning with algebraic effects and dependent types** - E. Brady
-   - [Link](https://scholar.google.com/citations?user=v1butH8AAAAJ)
-5. **Towards a practical programming language based on dependent type theory** - U. Norell
-   - [Link](https://scholar.google.com/citations?user=KEIhJYcAAAAJ)
-7. **A comparative study of language support for generic programming** - R. Garcia, J. Jarvi, A. Lumsdaine, J. Siek, J. Willcock
-   - [Link](https://scholar.google.com/citations?user=vB4OU7sAAAAJ)
+   - [Link](https://dl.acm.org/doi/abs/10.1145/2500365.2500581)
+4. **Towards a practical programming language based on dependent type theory** - U. Norell
+   - [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KEIhJYcAAAAJ&citation_for_view=KEIhJYcAAAAJ:u5HHmVD_uO8C)
+5. **A comparative study of language support for generic programming** - R. Garcia, J. Jarvi, A. Lumsdaine, J. Siek, J. Willcock
+   - [Link](https://dl.acm.org/doi/abs/10.1145/949305.949317)
 
