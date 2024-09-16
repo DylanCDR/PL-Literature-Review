@@ -104,35 +104,9 @@ Repository that contains the Readme file for week 3 of CPSC354 Programming Langu
 ---
 
 ## References
-Sure! Here are the references updated to include only Google Scholar articles, along with links to future paradigms:
-
-## References
 
 1. **A theory of gradual effect systems** - F. Bañados Schwerter, R. Garcia, É. Tanter
-   - [Link](https://scholar.google.com/citations?user=vB4OU7sAAAAJ)
-2. **Dependently typed programming in Agda** - U. Norell
-   - [Link](https://scholar.google.com/citations?user=KEIhJYcAAAAJ)
-3. **Programming and reasoning with algebraic effects and dependent types** - E. Brady
-   - [Link](https://scholar.google.com/citations?user=v1butH8AAAAJ)
-4. **Functional reactive programming from first principles** - Z. Wan, P. Hudak
-   - [Link](https://scholar.google.com/citations?user=W6Mk2KwAAAAJ)
-5. **Handlers of algebraic effects** - G. Plotkin, M. Pretnar
-   - [Link](https://scholar.google.com/citations?user=VbovIwwAAAAJ)
-6. **Towards a practical programming language based on dependent type theory** - U. Norell
-   - [Link](https://scholar.google.com/citations?user=KEIhJYcAAAAJ)
-7. **Functional reactive programming for embedded systems with GPGPUs** - Y. Sakurai, S. Moriguchi, T. Watanabe
-   - [Link](https://scholar.google.com/citations?user=czIW23sAAAAJ)
-8. **A comparative study of language support for generic programming** - R. Garcia, J. Jarvi, A. Lumsdaine, J. Siek, J. Willcock
-   - [Link](https://scholar.google.com/citations?user=vB4OU7sAAAAJ)
-9. **Simple unification-based type inference for GADTs** - S. Peyton Jones, D. Vytiniotis, S. Weirich, G. Washburn
-   - [Link](https://scholar.google.com/citations?user=-vC_l2kAAAAJ)
-10. **Functional reactive programming for small-scale embedded systems with recursive data types** - A. Yokoyama, S. Moriguchi, T. Watanabe
-    - [Link](https://scholar.google.com/citations?user=czIW23sAAAAJ)
-
-## References
-
-1. **A theory of gradual effect systems** - F. Bañados Schwerter, R. Garcia, É. Tanter
-   - [Link]([https://scholar.google.com/citations?user=vB4OU7sAAAAJ](https://dl.acm.org/doi/abs/10.1145/2628136.2628149))
+   - [Link]((https://dl.acm.org/doi/abs/10.1145/2628136.2628149))
 2. **Dependently typed programming in Agda** - U. Norell
    - [Link](https://scholar.google.com/citations?user=KEIhJYcAAAAJ)
 3. **Programming and reasoning with algebraic effects and dependent types** - E. Brady
