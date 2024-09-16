@@ -2,7 +2,6 @@
 # Dylan Calderon
 Repository that contains the Readme file for week 3 of CPSC354 Programming Languages
 
-
 ---
 
 # Starting Question asked to Microsft's Copilot:
@@ -105,24 +104,50 @@ Repository that contains the Readme file for week 3 of CPSC354 Programming Langu
 ---
 
 ## References
+Sure! Here are the references updated to include only Google Scholar articles, along with links to future paradigms:
 
-1. **Functional Programming in Python: When and How to Use It** - Real Python
-   - [Link](https://realpython.com/python-functional-programming/)
-2. **How and why to use Functional Programming in modern JavaScript** - freeCodeCamp
-   - [Link](https://www.freecodecamp.org/news/functional-programming-in-js-with-practical-examples/)
-3. **Functional Programming: Overview** - Nakov
-   - [Link](https://nakov.com/blog/2013/05/20/functional-programming-overview/)
-4. **What is functional programming? Explained in Python, JS, and Java** - Educative
-   - [Link](https://www.educative.io/blog/functional-programming)
-5. **Functional Programming Paradigm** - GeeksforGeeks
-   - [Link](https://www.geeksforgeeks.org/functional-programming-paradigm/)
-6. **The Evolution of Programming Paradigms: From Procedural to Functional** - DEV Community
-   - [Link](https://dev.to/lydiahallie/the-evolution-of-programming-paradigms-from-procedural-to-functional-3l5b)
-7. **Functional programming is finally going mainstream** - GitHub
-   - [Link](https://github.blog/2020-09-15-functional-programming-is-finally-going-mainstream/)
-8. **What Is Functional Programming and Why Use It?** - Coding Dojo
-   - [Link](https://www.codingdojo.com/blog/functional-programming)
-9. **What is Functional Programming? Your Gateway to ...** - Text Platform
-   - [Link](https://textplatform.com/what-is-functional-programming/)
-10. **What Is Functional Programming? Benefits, Uses, & Languages** - Learn to Code With Me
-    - [Link](https://learntocodewith.me/posts/functional-programming/)
+## References
+
+1. **A theory of gradual effect systems** - F. Bañados Schwerter, R. Garcia, É. Tanter
+   - [Link](https://scholar.google.com/citations?user=vB4OU7sAAAAJ)
+2. **Dependently typed programming in Agda** - U. Norell
+   - [Link](https://scholar.google.com/citations?user=KEIhJYcAAAAJ)
+3. **Programming and reasoning with algebraic effects and dependent types** - E. Brady
+   - [Link](https://scholar.google.com/citations?user=v1butH8AAAAJ)
+4. **Functional reactive programming from first principles** - Z. Wan, P. Hudak
+   - [Link](https://scholar.google.com/citations?user=W6Mk2KwAAAAJ)
+5. **Handlers of algebraic effects** - G. Plotkin, M. Pretnar
+   - [Link](https://scholar.google.com/citations?user=VbovIwwAAAAJ)
+6. **Towards a practical programming language based on dependent type theory** - U. Norell
+   - [Link](https://scholar.google.com/citations?user=KEIhJYcAAAAJ)
+7. **Functional reactive programming for embedded systems with GPGPUs** - Y. Sakurai, S. Moriguchi, T. Watanabe
+   - [Link](https://scholar.google.com/citations?user=czIW23sAAAAJ)
+8. **A comparative study of language support for generic programming** - R. Garcia, J. Jarvi, A. Lumsdaine, J. Siek, J. Willcock
+   - [Link](https://scholar.google.com/citations?user=vB4OU7sAAAAJ)
+9. **Simple unification-based type inference for GADTs** - S. Peyton Jones, D. Vytiniotis, S. Weirich, G. Washburn
+   - [Link](https://scholar.google.com/citations?user=-vC_l2kAAAAJ)
+10. **Functional reactive programming for small-scale embedded systems with recursive data types** - A. Yokoyama, S. Moriguchi, T. Watanabe
+    - [Link](https://scholar.google.com/citations?user=czIW23sAAAAJ)
+
+## References
+
+1. **A theory of gradual effect systems** - F. Bañados Schwerter, R. Garcia, É. Tanter
+   - [Link](https://scholar.google.com/citations?user=vB4OU7sAAAAJ)
+2. **Dependently typed programming in Agda** - U. Norell
+   - [Link](https://scholar.google.com/citations?user=KEIhJYcAAAAJ)
+3. **Programming and reasoning with algebraic effects and dependent types** - E. Brady
+   - [Link](https://scholar.google.com/citations?user=v1butH8AAAAJ)
+4. **Functional reactive programming from first principles** - Z. Wan, P. Hudak
+   - [Link](https://scholar.google.com/citations?user=W6Mk2KwAAAAJ)
+5. **Handlers of algebraic effects** - G. Plotkin, M. Pretnar
+   - [Link](https://scholar.google.com/citations?user=VbovIwwAAAAJ)
+6. **Towards a practical programming language based on dependent type theory** - U. Norell
+   - [Link](https://scholar.google.com/citations?user=KEIhJYcAAAAJ)
+7. **Functional reactive programming for embedded systems with GPGPUs** - Y. Sakurai, S. Moriguchi, T. Watanabe
+   - [Link](https://scholar.google.com/citations?user=czIW23sAAAAJ)
+8. **A comparative study of language support for generic programming** - R. Garcia, J. Jarvi, A. Lumsdaine, J. Siek, J. Willcock
+   - [Link](https://scholar.google.com/citations?user=vB4OU7sAAAAJ)
+9. **Simple unification-based type inference for GADTs** - S. Peyton Jones, D. Vytiniotis, S. Weirich, G. Washburn
+   - [Link](https://scholar.google.com/citations?user=-vC_l2kAAAAJ)
+10. **Functional reactive programming for small-scale embedded systems with recursive data types** - A. Yokoyama, S. Moriguchi, T. Watanabe
+    - [Link](https://scholar.google.com/citations?user=czIW23sAAAAJ)
