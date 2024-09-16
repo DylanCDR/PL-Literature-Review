@@ -111,15 +111,8 @@ Repository that contains the Readme file for week 3 of CPSC354 Programming Langu
    - [Link](https://dl.acm.org/doi/abs/10.1145/1481861.1481862)
 3. **Programming and reasoning with algebraic effects and dependent types** - E. Brady
    - [Link](https://scholar.google.com/citations?user=v1butH8AAAAJ)
-4. **Handlers of algebraic effects** - G. Plotkin, M. Pretnar
-   - [Link](https://scholar.google.com/citations?user=VbovIwwAAAAJ)
 5. **Towards a practical programming language based on dependent type theory** - U. Norell
    - [Link](https://scholar.google.com/citations?user=KEIhJYcAAAAJ)
-6. **Functional reactive programming for embedded systems with GPGPUs** - Y. Sakurai, S. Moriguchi, T. Watanabe
-   - [Link](https://scholar.google.com/citations?user=czIW23sAAAAJ)
 7. **A comparative study of language support for generic programming** - R. Garcia, J. Jarvi, A. Lumsdaine, J. Siek, J. Willcock
    - [Link](https://scholar.google.com/citations?user=vB4OU7sAAAAJ)
-8. **Simple unification-based type inference for GADTs** - S. Peyton Jones, D. Vytiniotis, S. Weirich, G. Washburn
-   - [Link](https://scholar.google.com/citations?user=-vC_l2kAAAAJ)
-9. **Functional reactive programming for small-scale embedded systems with recursive data types** - A. Yokoyama, S. Moriguchi, T. Watanabe
-    - [Link](https://scholar.google.com/citations?user=czIW23sAAAAJ)
+
