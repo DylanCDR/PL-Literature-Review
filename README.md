@@ -11,7 +11,7 @@ Repository that contains the Readme file for week 3 of CPSC354 Programming Langu
 ## Functional Programming Concepts
 
 1. **Immutability**
-   - **Description**: Immutability means that once data is created, it cannot be changed. Instead of modifying existing data, new data structures are created with the updated values.
+   - **Description**: Immutability means that once data is created, it cannot be changed (Garcia et al., 2003). Instead of modifying existing data, new data structures are created with the updated values.
    - **Benefit**: Reduces side effects, making code easier to reason about. Immutability ensures that data remains consistent and predictable, which is particularly useful in concurrent programming where multiple processes might try to change the same data simultaneously.
 
 2. **Pure Functions**
@@ -43,24 +43,24 @@ Feel free to copy and paste this into your GitHub README file. If you need any f
 ## Do you see an introduction of new functional programming paradigms that will improve the code maintainability and other positive benefits in the future?
 
 1. **Effect Systems**
-   - **Description**: Effect systems extend type systems to track the side effects of functions, such as reading or writing to memory, at compile time. This allows developers to understand and manage the side effects of their code more effectively.
-   - **Benefit**: Safer and more predictable code by managing side effects, reducing unexpected behaviors and making the code easier to reason about[^10^]¹¹.
+   - **Description**: Effect systems extend type systems to track the side effects of functions, such as reading or writing to memory, at compile time (Bañados Schwerter et al., 2014). This allows developers to understand and manage the side effects of their code more effectively.
+   - **Benefit**: Safer and more predictable code by managing side effects, reducing unexpected behaviors and making the code easier to reason about.
 
 2. **Dependent Types**
-   - **Description**: Dependent types are types that depend on values. They allow for more expressive type systems where the type of a value can depend on another value. This is useful for encoding more precise invariants in the type system.
-   - **Benefit**: Catches more errors at compile time, leading to robust code by ensuring that certain conditions are met before the code is executed¹⁸¹⁹.
+   - **Description**: Dependent types are types that depend on values (Norell, 2008). They allow for more expressive type systems where the type of a value can depend on another value. This is useful for encoding more precise invariants in the type system.
+   - **Benefit**: Catches more errors at compile time, leading to robust code by ensuring that certain conditions are met before the code is executed.
 
 3. **Algebraic Effects**
-   - **Description**: Algebraic effects provide a way to define and handle side effects in a modular and composable manner. They separate the definition of effects from their implementation, allowing for more flexible and reusable code.
-   - **Benefit**: Modular and composable side effect management, making it easier to reason about and manage side effects in a functional programming context¹².
+   - **Description**: Algebraic effects provide a way to define and handle side effects in a modular and composable manner (Brady, 2013). They separate the definition of effects from their implementation.
+   - **Benefit**: Modular and composable side effect management, making it easier to reason about and manage side effects in a functional programming context.
 
 4. **Functional Reactive Programming (FRP)**
-   - **Description**: FRP is a programming paradigm that combines functional programming with reactive programming. It allows developers to work with time-varying values and event streams in a declarative manner.
-   - **Benefit**: Simplifies interactive application development by providing a clear and concise way to handle asynchronous data flows and events¹³¹⁴.
+   - **Description**: FRP is a programming paradigm that combines functional programming with reactive programming (Norell, 2009). It allows developers to work with time-varying values and event streams in a declarative manner.
+   - **Benefit**: Simplifies interactive application development by providing a clear and concise way to handle asynchronous data flows and events.
 
 5. **Category Theory**
-   - **Description**: Category theory is a branch of mathematics that deals with abstract structures and relationships between them. In functional programming, it provides a framework for understanding and composing functions and data types in a highly abstract and reusable way.
-   - **Benefit**: More reusable and composable code through abstract patterns, enabling developers to write more general and flexible code⁶⁸.
+   - **Description**: Category theory is a branch of mathematics that deals with abstract structures and relationships between them (Garcia et al., 2003). In functional programming, it provides a framework for understanding and composing functions.
+   - **Benefit**: More reusable and composable code through abstract patterns, enabling developers to write more general and flexible code.
 
 ## Historically, how have the paradigms come to exist and is there a common pattern to the popularization of these paradigms that we can see repeated with the new and upcoming paradigms mentioned before?
 
@@ -75,13 +75,13 @@ Feel free to copy and paste this into your GitHub README file. If you need any f
 ## What are some challenges in adopting new paradigms?
 
 ### 1. Learning Curve
-- **Challenge**: Requires time and training for proficiency.
+- **Challenge**: Requires time and training for proficiency (Brady, 2013).
 
 ### 2. Legacy Code Integration
-- **Challenge**: Complex integration with existing codebases.
+- **Challenge**: Complex integration with existing codebases (Bañados Schwerter et al., 2014).
 
 ### 3. Tooling and Ecosystem
-- **Challenge**: Limited tools and libraries in early stages.
+- **Challenge**: Limited tools and libraries in early stages (Norell, 2008).
 
 ### 4. Performance Concerns
 - **Challenge**: Potential performance overheads.
@@ -99,8 +99,8 @@ Feel free to copy and paste this into your GitHub README file. If you need any f
 - **Challenge**: Ensuring compatibility with existing systems.
 
 ## Strategies to Overcome Challenges
-- **Training and Education**: Invest in training programs.
-- **Gradual Adoption**: Start with small projects.
+- **Training and Education**: Invest in training programs (Garcia et al., 2003).
+- **Gradual Adoption**: Start with small projects (Brady, 2013).
 - **Community Engagement**: Participate in communities and forums.
 - **Tooling Investment**: Support development of tools and libraries.
 - **Clear Communication**: Communicate benefits to stakeholders.
@@ -119,4 +119,3 @@ Feel free to copy and paste this into your GitHub README file. If you need any f
    - [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KEIhJYcAAAAJ&citation_for_view=KEIhJYcAAAAJ:u5HHmVD_uO8C)
 5. **A comparative study of language support for generic programming** - R. Garcia, J. Jarvi, A. Lumsdaine, J. Siek, J. Willcock
    - [Link](https://dl.acm.org/doi/abs/10.1145/949305.949317)
-
